@@ -4,7 +4,7 @@ The example KEWET_Display.ino file is tested with a GPS module as input for the 
 
 Please see picture regarding how to connect the display to the controller.
 6 pins is as minimum needed:
-+ (Plus use same voltage as controller)
+'+ (Plus use same voltage as controller)
 GND
 SCL (I2C SCL pin defined for the controller used via the wire library)
 SDA (I2C SDA pin defined for the controller used via the wire library)
